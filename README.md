@@ -8,11 +8,12 @@
 
 ***
 
-docker setup file, Laravel 5.8 + mysql5.7 + nginx
+docker setup file, Laravel 5.8 +mysql
 
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/lara58_8docker
 
 ***
 
