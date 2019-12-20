@@ -25,7 +25,7 @@ services:
     ports:
       - 3306:3306
     environment:
-      MYSQL_ROOT_PASSWORD: root         #ここにroot用のパスワードを記載
-      MYSQL_DATABASE: laravel         #ここにデータベースを記載
-      MYSQL_USER: db_user           #ここにユーザ名を記載
-      MYSQL_PASSWORD: password   #ここにユーザ用パスワードを記載
+      MYSQL_ROOT_PASSWORD: root         #
+      MYSQL_DATABASE: laravel         #
+      MYSQL_USER: db_user           #ユーザ名
+      MYSQL_PASSWORD: password   #ユーザ用パスワード
